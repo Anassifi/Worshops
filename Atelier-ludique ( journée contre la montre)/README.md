@@ -1,4 +1,4 @@
-# Landing page, déveloper une interface graphique contre la montre 
+# Landing page, développer une interface graphique contre la montre 
 
 ## Welcome! 👋
 
